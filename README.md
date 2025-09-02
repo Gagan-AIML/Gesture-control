@@ -14,14 +14,6 @@ A real-time computer vision project that allows hands-free control of **PowerPoi
 - MediaPipe
 - PyAutoGUI
 
-## ⚡ Setup Instructions
-```bash
-git clone https://github.com/your-username/gesture-control-system.git
-cd gesture-control-system
-pip install -r requirements.txt
-python gesture_control.py
-```
-
 ## ✋ Gesture Mappings
 | Gesture                  | Action             |
 |--------------------------|-------------------|
